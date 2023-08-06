@@ -6,6 +6,8 @@ A File explorer, document viewer, text editor, terminal and a whole lot more; bu
 ## Features
 - Super lightweight.
 - Quick access console in File explorer.
+- Easily configure Neptune using [parameters.json](https://github.com/Hyouteki/Neptune/blob/main/parameters.json) file.
+  > Later settings window would be implemeted for even more ease. 
 - Everything just one click or one key-board key combination away.
   > FUNFACT: Half of this project actually written using Neptune itself; talk about turing completeness.
 
